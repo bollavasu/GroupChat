@@ -1,0 +1,7 @@
+
+https://www.geeksforgeeks.org/a-group-chat-application-in-java/
+
+1)open 3 command prompts and execute the following 2 commands
+2)javac GroupChat.java
+3)java GroupChat 239.0.0.0 1234
+4)Start chatting
